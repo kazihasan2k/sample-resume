@@ -1,0 +1,45 @@
+body{
+	background-color: red;
+	background-color: #ff0000;
+	background-color: rgb(255,0,0);
+	background-color: rgba(255,0,0,.5);
+
+	background-image: url('../imh/bg.jpg');
+	background-repeat: repeat;
+	background-size: 30px;
+
+	color: whiie;
+	color: bkack;
+
+	font-family: Raleway, Ariel;
+	font-weight: 900;
+	font-style: italic;
+	font-size: 20px;
+
+	font: italic 900 20px Raleway, Ariel;
+}
+
+h2 {
+	font-size: 32px;
+	color: blue;
+}
+
+.first h2 {
+	color: tomato;
+}
+
+section{
+	background-color: red;
+}
+
+.objective {
+	background-color: orange;
+}
+
+.first {
+	background-color: yellow;
+}
+
+#oliver {
+	background-color: green;
+}
